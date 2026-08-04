@@ -56,16 +56,16 @@ Vehicle sales data was scattered across multiple sources, making it difficult fo
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
-vehicle-sales-analytics
+Vehicle-Sales-Analytics
 │
+├── readme/
 ├── assets/
 ├── dataset/
-├── documentation/
 ├── powerbi/
-└── presentation/
+├── report/
 ```
 
 ---
