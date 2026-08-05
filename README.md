@@ -22,7 +22,7 @@ Vehicle sales data was scattered across multiple sources, making it difficult fo
 
 ### Overview Dashboard
 
-![Overview Dashboard](assets/dashboard-overview.png)
+![Overview Dashboard](assets/Car Detail Selling.png)
 
 ### Sales Analysis Dashboard
 
