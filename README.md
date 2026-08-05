@@ -18,15 +18,15 @@ Vehicle sales data was scattered across multiple sources, making it difficult fo
 - Generated business insights and proposed actionable recommendations.
 
 
-## Dashboard Preview
+## dashboard_powerBI
 
 ### Overview Dashboard
 
-![Overview Dashboard](assets/Car Detail Selling.png)
+![Overview Dashboard](assets/Car_Selling_Overview.png)
 
-### Sales Analysis Dashboard
+### Sales Analysis Dashboard 
 
-![Sales Dashboard](assets/dashboard-analysis.png)
+![Sales Dashboard](assets/Car_Detail_Selling.png)
 
 ---
 
@@ -75,7 +75,7 @@ Vehicle-Sales-Analytics
 | Resource | Description |
 |----------|-------------|
 | Dataset | Vehicle sales dataset |
-| Power BI Dashboard | Interactive `Vehicle Sales Analytics.pbix` dashboard |
+| Power BI Dashboard | Interactive `Vehicle_Sales_Analytics.pbix` dashboard |
 | Business Report | Project documentation (docx) |
 
 ---
