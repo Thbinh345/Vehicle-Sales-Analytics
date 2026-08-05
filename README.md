@@ -1,6 +1,6 @@
 # Vehicle Sales Analytics Dashboard
 
-An interactive Business Intelligence dashboard developed with **Power BI** to analyze vehicle sales performance across brands, regions, customer segments, and market trends. This project transforms raw sales data into meaningful business insights, enabling managers to monitor KPIs and support data-driven decision-making.
+An end-to-end BI project that analyzes vehicle sales performance across brands, regions, customer segments, and market trends. Raw sales data was imported from CSV, cleaned and preprocessed using Python, and transformed into interactive Power BI dashboards. The project delivers actionable business insights that help managers monitor KPIs, identify high performing markets, and support data-driven decision-making.
 
 
 ## Business Problem
@@ -12,7 +12,7 @@ Vehicle sales data was scattered across multiple sources, making it difficult fo
 
 **Responsibilities**
 - Performed data cleaning and transformation using Python.
-- Defined business objectives and key performance indicators (KPIs).
+- Defined business objectives and KPIs.
 - Designed an interactive Power BI dashboard.
 - Analyzed sales performance and customer behavior.
 - Generated business insights and proposed actionable recommendations.
